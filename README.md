@@ -106,7 +106,7 @@
 - 🤖 Applied AI & LLM integrations
 
 <br/>
-<h1 align="center">🧩 Tech Stack Distribution</h1>
+<h3 >🧩 Tech Stack Distribution</h3>
 
 <div align="center">
   <img
