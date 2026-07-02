@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:181A20,100:10B981&height=190&section=header&text=Hey,%20I'm%20Anikesh%20👋&fontSize=38&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20to%20SDE%20Opportunities&descAlignY=58&descColor=9CA3AF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Welcome+to+my+profile!;Software+Engineer;600%2B+DSA+Problems+Solved;Open+to+SDE+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Hii%2C+Welcome+to+my+profile!+%F0%9F%91%8B;Software+Engineer;Open+to+SDE+Opportunities" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Anikesh407&label=Profile+Views&color=181A20&style=for-the-badge&labelColor=0F1115" alt="profile views" />
 
@@ -33,6 +33,14 @@
   <a href="mailto:anikesh6203@gmail.com">
     <img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=A9FEF7" />
   </a>
+  <a href="https://drive.google.com/file/d/1-4tvYfUxmhonq8Vg8LkxH2Mhka9zVXxw/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=googledrive&logoColor=A9FEF7" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LeetCode%20Rating-1760%2B-2C5364?style=for-the-badge&logo=leetcode&logoColor=A9FEF7" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-600%2B-2C5364?style=for-the-badge&logo=leetcode&logoColor=A9FEF7" />
 </p>
 
 <br/>
@@ -50,6 +58,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frontend**
 <br/>
@@ -118,18 +128,10 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🧩 Tech Stack Distribution
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anikesh407&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Anikesh407/Anikesh407/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://quickchart.io/chart?width=500&height=300&backgroundColor=%230F2027&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27C%2B%2B%27%2C%27JavaScript%27%2C%27React%27%2C%27Node.js%27%2C%27MongoDB%27%2C%27Express%27%2C%27TypeScript%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B25%2C20%2C15%2C15%2C10%2C10%2C5%5D%2CbackgroundColor%3A%5B%27%2300599C%27%2C%27%23F7DF1E%27%2C%27%2361DAFB%27%2C%27%23339933%27%2C%27%2347A248%27%2C%27%236E6E6E%27%2C%27%233178C6%27%5D%2CborderColor%3A%27%230F1115%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23C9D1D9%27%2Cfont%3A%7Bsize%3A13%7D%7D%7D%7D%7D%7D" alt="Tech Stack Distribution"/>
 </div>
 
 <br/>
