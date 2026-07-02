@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:181A20,100:0F1115&height=190&section=header&text=Hey,%20I'm%20Anikesh%20👋&fontSize=38&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Backend-focused%20Full%20Stack%20Developer&descAlignY=58&descColor=9CA3AF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:181A20,100:10B981&height=190&section=header&text=Hey,%20I'm%20Anikesh%20👋&fontSize=38&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20to%20SDE%20Opportunities&descAlignY=58&descColor=9CA3AF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Welcome+to+my+profile!;MERN+Stack+Developer;600%2B+DSA+Problems+Solved;Open+to+SDE+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Welcome+to+my+profile!;Software+Engineer;600%2B+DSA+Problems+Solved;Open+to+SDE+Opportunities" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Anikesh407&label=Profile+Views&color=181A20&style=for-the-badge&labelColor=0F1115" alt="profile views" />
 
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anikesh407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F1115&title_color=F5F5F5&icon_color=10B981&text_color=9CA3AF&ring_color=10B981&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anikesh407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F1115&title_color=F5F5F5&icon_color=10B981&text_color=9CA3AF&ring_color=10B981"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F1115&title_color=F5F5F5&text_color=9CA3AF&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com?user=Anikesh407&theme=tokyonight&hide_border=true&background=0F1115&ring=10B981&fire=10B981&currStreakLabel=F5F5F5&sideLabels=9CA3AF&dates=9CA3AF&currStreakNum=F5F5F5&sideNums=F5F5F5"/>
@@ -112,7 +112,7 @@
 ## Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh407&custom_title=Anikesh's%20Contribution%20Graph&bg_color=0F1115&color=10B981&line=10B981&point=F5F5F5&area=true&area_color=181A20&hide_border=true&title_color=F5F5F5" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh407&custom_title=Anikesh%20Contribution%20Graph&bg_color=0F1115&color=10B981&line=10B981&point=F5F5F5&area=true&area_color=181A20&hide_border=true&title_color=F5F5F5" width="95%"/>
 </div>
 
 <br/>
@@ -134,5 +134,5 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:181A20,100:0F1115&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:181A20,100:0F1115&height=90&section=footer"/>
 </div>
