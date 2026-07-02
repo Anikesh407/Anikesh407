@@ -39,8 +39,8 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LeetCode%20Rating-1760%2B-2C5364?style=for-the-badge&logo=leetcode&logoColor=A9FEF7" />
-  <img src="https://img.shields.io/badge/Problems%20Solved-600%2B-2C5364?style=for-the-badge&logo=leetcode&logoColor=A9FEF7" />
+  <img src="https://img.shields.io/badge/LeetCode%20Rating-1760%2B-FF4757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-600%2B-FFA94D?style=for-the-badge" />
 </p>
 
 <br/>
@@ -111,11 +111,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anikesh407&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anikesh407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9&ring_color=A9FEF7"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=A9FEF7&text_color=C9D1D9&langs_count=8"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh407&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Anikesh407&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Anikesh407&theme=tokyonight&hide_border=true&background=0F2027&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=C9D1D9"/>
 
 </div>
 
@@ -132,7 +131,7 @@
 ## 🧩 Tech Stack Distribution
 
 <div align="center">
-<img src="https://quickchart.io/chart?width=500&height=300&backgroundColor=%230F2027&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27C%2B%2B%27%2C%27JavaScript%27%2C%27React%27%2C%27Node.js%27%2C%27MongoDB%27%2C%27Express%27%2C%27TypeScript%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B25%2C20%2C15%2C15%2C10%2C10%2C5%5D%2CbackgroundColor%3A%5B%27%2300599C%27%2C%27%23F7DF1E%27%2C%27%2361DAFB%27%2C%27%23339933%27%2C%27%2347A248%27%2C%27%236E6E6E%27%2C%27%233178C6%27%5D%2CborderColor%3A%27%230F1115%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23C9D1D9%27%2Cfont%3A%7Bsize%3A13%7D%7D%7D%7D%7D%7D" alt="Tech Stack Distribution"/>
+<img src="https://raw.githubusercontent.com/Anikesh407/Anikesh407/main/tech-distribution.svg" alt="Tech Stack Distribution" width="480"/>
 </div>
 
 <br/>
