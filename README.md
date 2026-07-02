@@ -45,35 +45,35 @@
 
 **Languages**
 <br/>
-![C++](https://img.shields.io/badge/C++-2C5364?style=for-the-badge&logo=cplusplus&logoColor=A9FEF7)
-![Java](https://img.shields.io/badge/Java-2C5364?style=for-the-badge&logo=openjdk&logoColor=A9FEF7)
-![JavaScript](https://img.shields.io/badge/JavaScript-2C5364?style=for-the-badge&logo=javascript&logoColor=A9FEF7)
-![TypeScript](https://img.shields.io/badge/TypeScript-2C5364?style=for-the-badge&logo=typescript&logoColor=A9FEF7)
-![Python](https://img.shields.io/badge/Python-2C5364?style=for-the-badge&logo=python&logoColor=A9FEF7)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
 <br/>
-![React](https://img.shields.io/badge/React-2C5364?style=for-the-badge&logo=react&logoColor=A9FEF7)
-![Redux](https://img.shields.io/badge/Redux-2C5364?style=for-the-badge&logo=redux&logoColor=A9FEF7)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2C5364?style=for-the-badge&logo=tailwind-css&logoColor=A9FEF7)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
 **Backend**
 <br/>
-![Node.js](https://img.shields.io/badge/Node.js-2C5364?style=for-the-badge&logo=node.js&logoColor=A9FEF7)
-![Express.js](https://img.shields.io/badge/Express.js-2C5364?style=for-the-badge&logo=express&logoColor=A9FEF7)
-![Spring](https://img.shields.io/badge/Spring-2C5364?style=for-the-badge&logo=spring&logoColor=A9FEF7)
-![Socket.io](https://img.shields.io/badge/Socket.io-2C5364?style=for-the-badge&logo=socket.io&logoColor=A9FEF7)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **Databases & Cloud**
 <br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-2C5364?style=for-the-badge&logo=mongodb&logoColor=A9FEF7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C5364?style=for-the-badge&logo=postgresql&logoColor=A9FEF7)
-![Redis](https://img.shields.io/badge/Redis-2C5364?style=for-the-badge&logo=redis&logoColor=A9FEF7)
-![Docker](https://img.shields.io/badge/Docker-2C5364?style=for-the-badge&logo=docker&logoColor=A9FEF7)
-![AWS](https://img.shields.io/badge/AWS-2C5364?style=for-the-badge&logo=amazonaws&logoColor=A9FEF7)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </td>
 </tr>
@@ -81,11 +81,11 @@
 
 **Tools & Design**
 <br/>
-![Git](https://img.shields.io/badge/Git-2C5364?style=for-the-badge&logo=git&logoColor=A9FEF7)
-![GitHub](https://img.shields.io/badge/GitHub-2C5364?style=for-the-badge&logo=github&logoColor=A9FEF7)
-![Postman](https://img.shields.io/badge/Postman-2C5364?style=for-the-badge&logo=postman&logoColor=A9FEF7)
-![Figma](https://img.shields.io/badge/Figma-2C5364?style=for-the-badge&logo=figma&logoColor=A9FEF7)
-![Vercel](https://img.shields.io/badge/Vercel-2C5364?style=for-the-badge&logo=vercel&logoColor=A9FEF7)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anikesh407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9&ring_color=A9FEF7&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anikesh407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9&ring_color=A9FEF7"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=A9FEF7&text_color=C9D1D9&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com?user=Anikesh407&theme=tokyonight&hide_border=true&background=0F2027&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=C9D1D9"/>
@@ -121,7 +121,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anikesh407&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anikesh407&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </div>
 
 <br/>
