@@ -1,28 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:181A20,100:10B981&height=190&section=header&text=Hey,%20I'm%20Anikesh%20👋&fontSize=38&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20to%20SDE%20Opportunities&descAlignY=58&descColor=9CA3AF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Hey,%20I'm%20Anikesh%20👋&fontSize=38&fontColor=A9FEF7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20to%20SDE%20Opportunities&descAlignY=58&descColor=C9D1D9"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Welcome+to+my+profile!;Software+Engineer;600%2B+DSA+Problems+Solved;Open+to+SDE+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A9FEF7&center=true&vCenter=true&width=560&lines=Welcome+to+my+profile!;Software+Engineer;600%2B+DSA+Problems+Solved;Open+to+SDE+Opportunities" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Anikesh407&label=Profile+Views&color=181A20&style=for-the-badge&labelColor=0F1115" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Anikesh407&label=Profile+Views&color=2C5364&style=for-the-badge&labelColor=0F2027" alt="profile views" />
 
 </div>
 
 <br/>
 
-💫 About Me
+## 💫 About Me
 
-
-🚀 Building scalable Full-Stack Applications with the MERN stack
-🧠 Sharpening DSA & System Design — 600+ problems solved, 1740+ LeetCode rating
-💡 Exploring AI, Backend Architecture & Modern Technologies
-🤝 Open to collaborating on impactful engineering projects
-💬 Ask me about C++, JavaScript, React, Node.js & MongoDB
-⚡ Write code. Solve problems. Learn every day.
-
+- 🚀 Building scalable Full-Stack Applications with the MERN stack
+- 🧠 Sharpening DSA & System Design — 600+ problems solved, 1740+ LeetCode rating
+- 💡 Exploring AI, Backend Architecture & Modern Technologies
+- 🤝 Open to collaborating on impactful engineering projects
+- 💬 Ask me about C++, JavaScript, React, Node.js & MongoDB
+- ⚡ Write code. Solve problems. Learn every day.
 
 <br/>
-🌐 Connect With Me
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/anikesh-poddar" target="_blank">
@@ -35,85 +34,99 @@
     <img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=A9FEF7" />
   </a>
 </p>
+
 <br/>
-💻 Tech Stack
+
+## 💻 Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
-Languages
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
 
-Frontend
+**Languages**
 <br/>
-Show Image
-Show Image
-Show Image
+![C++](https://img.shields.io/badge/C++-2C5364?style=for-the-badge&logo=cplusplus&logoColor=A9FEF7)
+![Java](https://img.shields.io/badge/Java-2C5364?style=for-the-badge&logo=openjdk&logoColor=A9FEF7)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C5364?style=for-the-badge&logo=javascript&logoColor=A9FEF7)
+![TypeScript](https://img.shields.io/badge/TypeScript-2C5364?style=for-the-badge&logo=typescript&logoColor=A9FEF7)
+![Python](https://img.shields.io/badge/Python-2C5364?style=for-the-badge&logo=python&logoColor=A9FEF7)
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-2C5364?style=for-the-badge&logo=react&logoColor=A9FEF7)
+![Redux](https://img.shields.io/badge/Redux-2C5364?style=for-the-badge&logo=redux&logoColor=A9FEF7)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2C5364?style=for-the-badge&logo=tailwind-css&logoColor=A9FEF7)
 
 </td>
 <td valign="top" width="50%">
-Backend
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
 
-Databases & Cloud
+**Backend**
 <br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+![Node.js](https://img.shields.io/badge/Node.js-2C5364?style=for-the-badge&logo=node.js&logoColor=A9FEF7)
+![Express.js](https://img.shields.io/badge/Express.js-2C5364?style=for-the-badge&logo=express&logoColor=A9FEF7)
+![Spring](https://img.shields.io/badge/Spring-2C5364?style=for-the-badge&logo=spring&logoColor=A9FEF7)
+![Socket.io](https://img.shields.io/badge/Socket.io-2C5364?style=for-the-badge&logo=socket.io&logoColor=A9FEF7)
+
+**Databases & Cloud**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-2C5364?style=for-the-badge&logo=mongodb&logoColor=A9FEF7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C5364?style=for-the-badge&logo=postgresql&logoColor=A9FEF7)
+![Redis](https://img.shields.io/badge/Redis-2C5364?style=for-the-badge&logo=redis&logoColor=A9FEF7)
+![Docker](https://img.shields.io/badge/Docker-2C5364?style=for-the-badge&logo=docker&logoColor=A9FEF7)
+![AWS](https://img.shields.io/badge/AWS-2C5364?style=for-the-badge&logo=amazonaws&logoColor=A9FEF7)
 
 </td>
 </tr>
 </table>
-Tools & Design
+
+**Tools & Design**
 <br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-<br/>
-🌱 Currently Learning
-
-
-📚 Advanced Data Structures & Algorithms
-🏗️ System Design at scale
-🤖 Applied AI & LLM integrations
-
+![Git](https://img.shields.io/badge/Git-2C5364?style=for-the-badge&logo=git&logoColor=A9FEF7)
+![GitHub](https://img.shields.io/badge/GitHub-2C5364?style=for-the-badge&logo=github&logoColor=A9FEF7)
+![Postman](https://img.shields.io/badge/Postman-2C5364?style=for-the-badge&logo=postman&logoColor=A9FEF7)
+![Figma](https://img.shields.io/badge/Figma-2C5364?style=for-the-badge&logo=figma&logoColor=A9FEF7)
+![Vercel](https://img.shields.io/badge/Vercel-2C5364?style=for-the-badge&logo=vercel&logoColor=A9FEF7)
 
 <br/>
-📊 GitHub Analytics
+
+## 🌱 Currently Learning
+
+- 📚 Advanced Data Structures & Algorithms
+- 🏗️ System Design at scale
+- 🤖 Applied AI & LLM integrations
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anikesh407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9&ring_color=A9FEF7&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=A9FEF7&text_color=C9D1D9&langs_count=8"/>
+
 <img src="https://streak-stats.demolab.com?user=Anikesh407&theme=tokyonight&hide_border=true&background=0F2027&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=C9D1D9"/>
+
 </div>
+
 <br/>
-📈 Contribution Graph
+
+## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh407&custom_title=Anikesh's%20Contribution%20Graph&bg_color=0F2027&color=A9FEF7&line=A9FEF7&point=C9D1D9&area=true&area_color=2C5364&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh407&custom_title=Anikesh%20Contribution%20Graph&bg_color=0F2027&color=A9FEF7&line=A9FEF7&point=C9D1D9&area=true&area_color=2C5364&hide_border=true" width="95%"/>
 </div>
+
 <br/>
-🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Anikesh407&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </div>
+
 <br/>
-## Contribution Snake
+
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Anikesh407/Anikesh407/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
@@ -122,5 +135,5 @@ Show Image
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:181A20,100:0F1115&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer"/>
 </div>
