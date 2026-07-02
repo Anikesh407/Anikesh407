@@ -1,0 +1,129 @@
+<svg width="480" height="220" viewBox="0 0 480 220" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .chart-circle { transition: none; }
+
+    .seg0 {
+      animation: draw0 1.4s ease-out forwards;
+      animation-delay: 0.00s;
+      stroke-dasharray: 0 502.65;
+    }
+    @keyframes draw0 {
+      to { stroke-dasharray: 125.66 376.99; }
+    }
+    .seg1 {
+      animation: draw1 1.4s ease-out forwards;
+      animation-delay: 0.15s;
+      stroke-dasharray: 0 502.65;
+    }
+    @keyframes draw1 {
+      to { stroke-dasharray: 100.53 402.12; }
+    }
+    .seg2 {
+      animation: draw2 1.4s ease-out forwards;
+      animation-delay: 0.30s;
+      stroke-dasharray: 0 502.65;
+    }
+    @keyframes draw2 {
+      to { stroke-dasharray: 75.40 427.26; }
+    }
+    .seg3 {
+      animation: draw3 1.4s ease-out forwards;
+      animation-delay: 0.45s;
+      stroke-dasharray: 0 502.65;
+    }
+    @keyframes draw3 {
+      to { stroke-dasharray: 75.40 427.26; }
+    }
+    .seg4 {
+      animation: draw4 1.4s ease-out forwards;
+      animation-delay: 0.60s;
+      stroke-dasharray: 0 502.65;
+    }
+    @keyframes draw4 {
+      to { stroke-dasharray: 50.27 452.39; }
+    }
+    .seg5 {
+      animation: draw5 1.4s ease-out forwards;
+      animation-delay: 0.75s;
+      stroke-dasharray: 0 502.65;
+    }
+    @keyframes draw5 {
+      to { stroke-dasharray: 50.27 452.39; }
+    }
+    .seg6 {
+      animation: draw6 1.4s ease-out forwards;
+      animation-delay: 0.90s;
+      stroke-dasharray: 0 502.65;
+    }
+    @keyframes draw6 {
+      to { stroke-dasharray: 25.13 477.52; }
+    }
+  </style>
+  <rect width="480" height="220" fill="#0F1115" rx="12"/>
+  <g>
+    <circle cx="110" cy="110" r="80" fill="none" stroke="#1F2933" stroke-width="26"/>
+    
+    <circle class="seg0" cx="110" cy="110" r="80" fill="none"
+      stroke="#FF4757" stroke-width="26"
+      stroke-dasharray="125.66 376.99"
+      stroke-dashoffset="-0.00"
+      transform="rotate(-90 110 110)"
+      stroke-linecap="butt" />
+    <circle class="seg1" cx="110" cy="110" r="80" fill="none"
+      stroke="#FFA94D" stroke-width="26"
+      stroke-dasharray="100.53 402.12"
+      stroke-dashoffset="-125.66"
+      transform="rotate(-90 110 110)"
+      stroke-linecap="butt" />
+    <circle class="seg2" cx="110" cy="110" r="80" fill="none"
+      stroke="#FFD93D" stroke-width="26"
+      stroke-dasharray="75.40 427.26"
+      stroke-dashoffset="-226.19"
+      transform="rotate(-90 110 110)"
+      stroke-linecap="butt" />
+    <circle class="seg3" cx="110" cy="110" r="80" fill="none"
+      stroke="#4ECDC4" stroke-width="26"
+      stroke-dasharray="75.40 427.26"
+      stroke-dashoffset="-301.59"
+      transform="rotate(-90 110 110)"
+      stroke-linecap="butt" />
+    <circle class="seg4" cx="110" cy="110" r="80" fill="none"
+      stroke="#6BCB77" stroke-width="26"
+      stroke-dasharray="50.27 452.39"
+      stroke-dashoffset="-376.99"
+      transform="rotate(-90 110 110)"
+      stroke-linecap="butt" />
+    <circle class="seg5" cx="110" cy="110" r="80" fill="none"
+      stroke="#9B5DE5" stroke-width="26"
+      stroke-dasharray="50.27 452.39"
+      stroke-dashoffset="-427.26"
+      transform="rotate(-90 110 110)"
+      stroke-linecap="butt" />
+    <circle class="seg6" cx="110" cy="110" r="80" fill="none"
+      stroke="#FF6B9D" stroke-width="26"
+      stroke-dasharray="25.13 477.52"
+      stroke-dashoffset="-477.52"
+      transform="rotate(-90 110 110)"
+      stroke-linecap="butt" />
+  </g>
+  <text x="110" y="106" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" fill="#F5F5F5" font-weight="bold">Tech</text>
+  <text x="110" y="124" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" fill="#F5F5F5" font-weight="bold">Stack</text>
+  <g>
+    
+    <rect x="240" y="30" width="14" height="14" rx="3" fill="#FF4757"/>
+    <text x="260" y="41" font-family="JetBrains Mono, monospace" font-size="12" fill="#C9D1D9">C++ — 25%</text>
+    <rect x="240" y="56" width="14" height="14" rx="3" fill="#FFA94D"/>
+    <text x="260" y="67" font-family="JetBrains Mono, monospace" font-size="12" fill="#C9D1D9">JavaScript — 20%</text>
+    <rect x="240" y="82" width="14" height="14" rx="3" fill="#FFD93D"/>
+    <text x="260" y="93" font-family="JetBrains Mono, monospace" font-size="12" fill="#C9D1D9">React — 15%</text>
+    <rect x="240" y="108" width="14" height="14" rx="3" fill="#4ECDC4"/>
+    <text x="260" y="119" font-family="JetBrains Mono, monospace" font-size="12" fill="#C9D1D9">Node.js — 15%</text>
+    <rect x="240" y="134" width="14" height="14" rx="3" fill="#6BCB77"/>
+    <text x="260" y="145" font-family="JetBrains Mono, monospace" font-size="12" fill="#C9D1D9">MongoDB — 10%</text>
+    <rect x="240" y="160" width="14" height="14" rx="3" fill="#9B5DE5"/>
+    <text x="260" y="171" font-family="JetBrains Mono, monospace" font-size="12" fill="#C9D1D9">Express — 10%</text>
+    <rect x="240" y="186" width="14" height="14" rx="3" fill="#FF6B9D"/>
+    <text x="260" y="197" font-family="JetBrains Mono, monospace" font-size="12" fill="#C9D1D9">TypeScript — 5%</text>
+  </g>
+</svg>
