@@ -10,121 +10,109 @@
 
 <br/>
 
-## About Me
+💫 About Me
 
-- Building scalable **full-stack applications** with the MERN stack
-- Sharpening **DSA & System Design** — 600+ problems solved, 1740+ LeetCode rating
-- Exploring **AI, backend architecture & modern technologies**
-- Open to collaborating on impactful engineering projects
-- Ask me about **C++, JavaScript, React, Node.js & MongoDB**
+
+🚀 Building scalable Full-Stack Applications with the MERN stack
+🧠 Sharpening DSA & System Design — 600+ problems solved, 1740+ LeetCode rating
+💡 Exploring AI, Backend Architecture & Modern Technologies
+🤝 Open to collaborating on impactful engineering projects
+💬 Ask me about C++, JavaScript, React, Node.js & MongoDB
+⚡ Write code. Solve problems. Learn every day.
+
 
 <br/>
-
-## Connect
+🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/anikesh-poddar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-181A20?style=for-the-badge&logo=linkedin&logoColor=F5F5F5" />
+    <img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=A9FEF7" />
   </a>
   <a href="https://instagram.com/anikesh.0_0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-181A20?style=for-the-badge&logo=Instagram&logoColor=F5F5F5" />
+    <img src="https://img.shields.io/badge/Instagram-2C5364?style=for-the-badge&logo=Instagram&logoColor=A9FEF7" />
   </a>
   <a href="mailto:anikesh6203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181A20?style=for-the-badge&logo=gmail&logoColor=F5F5F5" />
+    <img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=A9FEF7" />
   </a>
 </p>
-
 <br/>
-
-## Tech Stack
+💻 Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
-
-**Languages**
+Languages
 <br/>
-![C++](https://img.shields.io/badge/C++-181A20?style=for-the-badge&logo=cplusplus&logoColor=F5F5F5)
-![Java](https://img.shields.io/badge/Java-181A20?style=for-the-badge&logo=openjdk&logoColor=F5F5F5)
-![JavaScript](https://img.shields.io/badge/JavaScript-181A20?style=for-the-badge&logo=javascript&logoColor=F5F5F5)
-![TypeScript](https://img.shields.io/badge/TypeScript-181A20?style=for-the-badge&logo=typescript&logoColor=F5F5F5)
-![Python](https://img.shields.io/badge/Python-181A20?style=for-the-badge&logo=python&logoColor=F5F5F5)
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-**Frontend**
+Frontend
 <br/>
-![React](https://img.shields.io/badge/React-181A20?style=for-the-badge&logo=react&logoColor=F5F5F5)
-![Redux](https://img.shields.io/badge/Redux-181A20?style=for-the-badge&logo=redux&logoColor=F5F5F5)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181A20?style=for-the-badge&logo=tailwind-css&logoColor=F5F5F5)
+Show Image
+Show Image
+Show Image
 
 </td>
 <td valign="top" width="50%">
-
-**Backend**
+Backend
 <br/>
-![Node.js](https://img.shields.io/badge/Node.js-181A20?style=for-the-badge&logo=node.js&logoColor=F5F5F5)
-![Express.js](https://img.shields.io/badge/Express.js-181A20?style=for-the-badge&logo=express&logoColor=F5F5F5)
-![Spring](https://img.shields.io/badge/Spring-181A20?style=for-the-badge&logo=spring&logoColor=F5F5F5)
-![Socket.io](https://img.shields.io/badge/Socket.io-181A20?style=for-the-badge&logo=socket.io&logoColor=F5F5F5)
+Show Image
+Show Image
+Show Image
+Show Image
 
-**Databases & Cloud**
+Databases & Cloud
 <br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-181A20?style=for-the-badge&logo=mongodb&logoColor=F5F5F5)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181A20?style=for-the-badge&logo=postgresql&logoColor=F5F5F5)
-![Redis](https://img.shields.io/badge/Redis-181A20?style=for-the-badge&logo=redis&logoColor=F5F5F5)
-![Docker](https://img.shields.io/badge/Docker-181A20?style=for-the-badge&logo=docker&logoColor=F5F5F5)
-![AWS](https://img.shields.io/badge/AWS-181A20?style=for-the-badge&logo=amazonaws&logoColor=F5F5F5)
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
 </td>
 </tr>
 </table>
-
-**Tools & Design**
+Tools & Design
 <br/>
-![Git](https://img.shields.io/badge/Git-181A20?style=for-the-badge&logo=git&logoColor=F5F5F5)
-![GitHub](https://img.shields.io/badge/GitHub-181A20?style=for-the-badge&logo=github&logoColor=F5F5F5)
-![Postman](https://img.shields.io/badge/Postman-181A20?style=for-the-badge&logo=postman&logoColor=F5F5F5)
-![Figma](https://img.shields.io/badge/Figma-181A20?style=for-the-badge&logo=figma&logoColor=F5F5F5)
-![Vercel](https://img.shields.io/badge/Vercel-181A20?style=for-the-badge&logo=vercel&logoColor=F5F5F5)
-
-<br/>
-
-## Currently Learning
-
-- Advanced Data Structures & Algorithms
-- System Design at scale
-- Applied AI & LLM integrations
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
 <br/>
+🌱 Currently Learning
 
-## GitHub Analytics
+
+📚 Advanced Data Structures & Algorithms
+🏗️ System Design at scale
+🤖 Applied AI & LLM integrations
+
+
+<br/>
+📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anikesh407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F1115&title_color=F5F5F5&icon_color=10B981&text_color=9CA3AF&ring_color=10B981"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F1115&title_color=F5F5F5&text_color=9CA3AF&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com?user=Anikesh407&theme=tokyonight&hide_border=true&background=0F1115&ring=10B981&fire=10B981&currStreakLabel=F5F5F5&sideLabels=9CA3AF&dates=9CA3AF&currStreakNum=F5F5F5&sideNums=F5F5F5"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anikesh407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9&ring_color=A9FEF7&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=A9FEF7&text_color=C9D1D9&langs_count=8"/>
+<img src="https://streak-stats.demolab.com?user=Anikesh407&theme=tokyonight&hide_border=true&background=0F2027&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=C9D1D9"/>
 </div>
-
 <br/>
-
-## Contribution Graph
+📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh407&custom_title=Anikesh%20Contribution%20Graph&bg_color=0F1115&color=10B981&line=10B981&point=F5F5F5&area=true&area_color=181A20&hide_border=true&title_color=F5F5F5" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh407&custom_title=Anikesh's%20Contribution%20Graph&bg_color=0F2027&color=A9FEF7&line=A9FEF7&point=C9D1D9&area=true&area_color=2C5364&hide_border=true" width="95%"/>
 </div>
-
 <br/>
-
-## GitHub Trophies
+🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anikesh407&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anikesh407&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </div>
-
 <br/>
-
 ## Contribution Snake
 
 <div align="center">
