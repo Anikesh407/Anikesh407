@@ -106,6 +106,11 @@
 - 🤖 Applied AI & LLM integrations
 
 <br/>
+## 🧩 Tech Stack Distribution
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anikesh407/Anikesh407/main/tech-distribution.svg" alt="Tech Stack Distribution" width="480"/>
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -128,11 +133,7 @@
 
 <br/>
 
-## 🧩 Tech Stack Distribution
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Anikesh407/Anikesh407/main/tech-distribution.svg" alt="Tech Stack Distribution" width="480"/>
-</div>
 
 <br/>
 
