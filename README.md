@@ -89,18 +89,19 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh407&theme=tokyo-night&hide_border=true"/>
+  <a href="https://github.com/Anikesh407">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh407&theme=github-dark&hide_border=true&area=true&custom_title=Anikesh%20Kumar's%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+  </a>
 </p>
-
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Anikesh407/Anikesh407/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Anikesh407/Anikesh407/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
