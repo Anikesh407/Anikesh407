@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Hey,%20I'm%20Anikesh%20👋&fontSize=38&fontColor=A9FEF7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20to%20SDE%20Opportunities&descAlignY=58&descColor=C9D1D9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:181A20,100:10B981&height=190&section=header&text=Hey,%20I'm%20Anikesh%20👋&fontSize=38&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20to%20SDE%20Opportunities&descAlignY=58&descColor=9CA3AF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A9FEF7&center=true&vCenter=true&width=560&lines=Welcome+to+my+profile!;Software+Engineer;600%2B+DSA+Problems+Solved;Open+to+SDE+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Welcome+to+my+profile!;Software+Engineer;600%2B+DSA+Problems+Solved;Open+to+SDE+Opportunities" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Anikesh407&label=Profile+Views&color=2C5364&style=for-the-badge&labelColor=0F2027" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Anikesh407&label=Profile+Views&color=181A20&style=for-the-badge&labelColor=0F1115" alt="profile views" />
 
 </div>
 
@@ -135,5 +135,5 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:181A20,100:0F1115&height=90&section=footer"/>
 </div>
