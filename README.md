@@ -36,6 +36,9 @@
   <a href="https://drive.google.com/file/d/1-4tvYfUxmhonq8Vg8LkxH2Mhka9zVXxw/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=googledrive&logoColor=A9FEF7" />
   </a>
+  <a href="https://leetcode.com/u/Anikesh0502/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 </p>
 
 <p align="left">
