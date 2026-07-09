@@ -13,7 +13,7 @@
 ## 💫 About Me
 
 - 🚀 Building scalable Full-Stack Applications with the MERN stack
-- 🧠 Sharpening DSA & System Design — 600+ problems solved, 1740+ LeetCode rating
+- 🧠 Sharpening DSA & System Design — 600+ problems solved, 1760+ LeetCode rating
 - 💡 Exploring AI, Backend Architecture & Modern Technologies
 - 🤝 Open to collaborating on impactful engineering projects
 - 💬 Ask me about C++, JavaScript, React, Node.js & MongoDB
